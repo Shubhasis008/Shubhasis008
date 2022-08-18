@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhasis sahoo
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning html,css,js & python
+- 🌱 I’m currently learning html,css,js,mern tech and dsa in java
 - 💞️ I’m looking to collaborate on Mphasis : unleash the nxt
 - 📫 Reach me on whatsapp : 8328801221
 
